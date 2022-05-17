@@ -1,0 +1,20 @@
+# /_data/authors.yml
+
+Stephen Griffies:
+  name        : "Charly de Marez"
+  bio         : "PhD in Physical Oceanography"
+  #avatar      : "maphoto.jpg"
+  links:
+    - label: "Email"
+      url: "mailto:cdemarez@caltech.edu"
+    - label: "ResearchGate"
+      url: "https://www.researchgate.net/profile/Charly-De-Marez"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=KymzoXMAAAAJ&hl=en"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/charly-de-marez-194092123/"
+    #- label: "CV"
+    #  url: "CV.pdf"
+
+
+
