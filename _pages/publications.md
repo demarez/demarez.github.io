@@ -29,33 +29,16 @@ toc: false
 
 ## PhD Thesis
 
-<p>  <b>de Marez, C.</b>. (2021) <a href="http://www.theses.fr/2021BRES0064"> Dynamique des structures cohérentes de méso et sousméso-échelle en mer d'Arabie</a>, <i>PhD Thesis</i>.</p> 
+<p>  <b>de Marez, C.</b> (2021) <a href="http://www.theses.fr/2021BRES0064"> Dynamique des structures cohérentes de méso et sousméso-échelle en mer d'Arabie</a>, <i>PhD Thesis</i>.</p> 
 ## Other 
 
-<a href="https://arxiv.org/abs/2001.01521">Can the earth be flat ? a physical oceanographer's perspective</a></p> 
-
-Study of lee waves in the Gulf Stream. Master 2 internship under the supervision of Jonathan Gula and Noé Lahaye. <a href="docs/Rapport_M2_marine_sciences_Charly_DE-MAREZ.pdf">Report</a>.
-
-</p>
-
-Interaction de deux tourbillons de surface proche d'une marche topographique dans un océan stratifié. Master 1 internship under the supervision of Xavier Carton. <a href="docs/Rapport_M1_Charly_De-Marez.pdf">Report</a> (in french).
-
-</p>
-
-Mécanismes responsables d'une transition ductile-fragile dans les métaux : simulation par Dynamique Moléculaire. Licence 3 internship under the supervision of Dome Tanguy. <a href="docs/DE-MAREZ_Charly_Rapport_L3.pdf">Report</a> (in french).
-
-
-</p>
-
-Effet Aharonov-Bohm dans sa baignoire. Practical project with Guilliam Butseraen, published in <i>Journal de Physique et Chimie des Étudiants de l'ENS Lyon</i> <a href="http://www.ens-lyon.fr/MasterSDM/sites/default/files/2021-05/JPCE_mai_2021-compr1.pdf">here</a>; original report <a href="docs/RapportTP_effetAB_DE-MAREZ_BUTSERAEN.pdf">here</a> (in french).
-
-</p>
-
-Dynamique de foules. Numerical methods project with Grégoire Uhlrich. <a href="docs/projet_guhlrich_cdemarez.pdf">Report</a> (in french).
-
-</p>
-
-Décohérence: du quantique au classique. Quantum information project with Grégoire Uhlrich and Guilliam Butseraen. <a href="docs/Decoherence_BUTSERAEN_DE-MAREZ_UHLRICH.pdf">Report</a> (in french).
+<p> <a href="https://arxiv.org/abs/2001.01521">Can the earth be flat ? a physical oceanographer's perspective</a><p> 
+<p> Study of lee waves in the Gulf Stream. Master 2 internship under the supervision of Jonathan Gula and Noé Lahaye. <a href="docs/Rapport_M2_marine_sciences_Charly_DE-MAREZ.pdf">Report</a>.<p> 
+<p> Interaction de deux tourbillons de surface proche d'une marche topographique dans un océan stratifié. Master 1 internship under the supervision of Xavier Carton. <a href="docs/Rapport_M1_Charly_De-Marez.pdf">Report</a> (in french).<p> 
+<p> Mécanismes responsables d'une transition ductile-fragile dans les métaux : simulation par Dynamique Moléculaire. Licence 3 internship under the supervision of Dome Tanguy. <a href="docs/DE-MAREZ_Charly_Rapport_L3.pdf">Report</a> (in french).<p> 
+<p> Effet Aharonov-Bohm dans sa baignoire. Practical project with Guilliam Butseraen, published in <i>Journal de Physique et Chimie des Étudiants de l'ENS Lyon</i> <a href="http://www.ens-lyon.fr/MasterSDM/sites/default/files/2021-05/JPCE_mai_2021-compr1.pdf">here</a>; original report <a href="docs/RapportTP_effetAB_DE-MAREZ_BUTSERAEN.pdf">here</a> (in french).<p> 
+<p> Dynamique de foules. Numerical methods project with Grégoire Uhlrich. <a href="docs/projet_guhlrich_cdemarez.pdf">Report</a> (in french).<p> 
+<p> Décohérence: du quantique au classique. Quantum information project with Grégoire Uhlrich and Guilliam Butseraen. <a href="docs/Decoherence_BUTSERAEN_DE-MAREZ_UHLRICH.pdf">Report</a> (in french).<p> 
 
 
 
