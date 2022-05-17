@@ -7,8 +7,7 @@ title: "Homepage"
 excerpt: ""
 header:
   overlay_color: "#000"
-  overlay_image: /docs/swirl.png
-  caption: " "
+  overlay_image: /assets/physindien/IMG_4395.JPG
 ---
 
 

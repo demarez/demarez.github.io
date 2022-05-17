@@ -1,0 +1,5 @@
+
+to generate remotely : 
+
+bundle exec jekyll server, see readme sur la page du template github, et aussi le script bootstrap
+

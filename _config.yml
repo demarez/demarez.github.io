@@ -10,8 +10,6 @@ email            : cdemarez@caltech.edu
 url              : https://demarez.github.io
 github_username  : demarez
 name             :  "Charly de Marez"
-description      :  "Postdoctoral research scholar at California Institute of Technology"
-#teaser           : "./docs/physindien/IMG_4865.JPG"
 
 # Build settings
 markdown: kramdown
@@ -69,6 +67,8 @@ include:
   - _pages
   - _docs
   - _posts
+  - _data
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -92,9 +92,6 @@ exclude:
   - package.json
   - Rakefile
   - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
