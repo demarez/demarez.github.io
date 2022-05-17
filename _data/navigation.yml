@@ -2,13 +2,13 @@
 main:
   - title: "Publications"
     url: /publications/
-  #- title: "Talks"
-  #  url: /talks/
-  #- title: "Other work"
-  #  url: /talks/    
-  #- title: "At sea"
-  #  url: /atsea/
-  #- title: "CLAPP"
-  #  url: /clapp/
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Talks & Events"
+    url: /events/
+  - title: "Other work"
+    url: /otherwork/    
+  - title: "At sea"
+    url: /atsea/
+  - title: "CLAPP"
+    url: /clapp/
+  - title: "CV"
+    url: /cv/
