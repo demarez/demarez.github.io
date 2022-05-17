@@ -7,7 +7,7 @@ title: "Homepage"
 excerpt: ""
 header:
   overlay_color: "#000"
-  overlay_image: ./docs/swirl2.jpg
+  overlay_image: /docs/swirl.png
   caption: " "
 ---
 
