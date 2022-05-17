@@ -5,11 +5,11 @@
 # Site settings
 locale           : "en-US"
 title            : "Charly de Marez"
-title_separator  : "'s"
+title_separator  : "|"
 email            : cdemarez@caltech.edu
 url              : https://cdemarez.github.io
 github_username  : cdemarez
-name             :  "Homepage"
+name             :  "Charly de Marez"
 #description      :  
 #teaser           : ".jpg"
 
