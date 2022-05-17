@@ -10,8 +10,8 @@ email            : cdemarez@caltech.edu
 url              : https://demarez.github.io
 github_username  : demarez
 name             :  "Charly de Marez"
-#description      :  
-#teaser           : ".jpg"
+description      :  "Postdoctoral research scholar at Caltech"
+teaser           : "./docs/physindien/IMG_4865.JPG"
 
 # Build settings
 markdown: kramdown
