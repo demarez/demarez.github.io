@@ -37,7 +37,7 @@ theme: jekyll-theme-cayman
 remote_theme: "mmistakes/minimal-mistakes"
 #remote_theme : "mmistakes/minimal-mistakes@4.24.0"
 #theme   : minima
-minimal_mistakes_skin: "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
 

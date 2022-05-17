@@ -6,9 +6,7 @@ main:
     url: /events/
   - title: "Other work"
     url: /otherwork/    
-  - title: "At sea"
-    url: /atsea/
   - title: "CLAPP"
-    url: /clapp/
+    url: /CLAPP.html
   - title: "CV"
-    url: /cv/
+    url: /CV.pdf
