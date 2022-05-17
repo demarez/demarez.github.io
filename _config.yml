@@ -37,32 +37,10 @@ theme: jekyll-theme-cayman
 #remote_theme: "mmistakes/minimal-mistakes"
 remote_theme : "mmistakes/minimal-mistakes@4.24.0"
 #theme   : minima
-minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: envelope
-    url: mailto:cdemarez@caltech.edu
-  - title: github
-    url: https://github.com/demarez
-  - title: linkedin
-    url: https://www.linkedin.com/in/charly-de-marez-194092123/
-  - title: researchgate
-    url: https://www.researchgate.net/profile/Charly-De-Marez
 
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 defaults:
   # _posts
