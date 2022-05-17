@@ -12,17 +12,10 @@ header:
 ---
 
 
-# <center> About this website</center> 
+# <center> Welcome to my homepage</center> 
 
 <p align="justify">
-
-yo
-</a>
-
-<br> <br>
-
-cc
-
+aaa
 </p>
 
 
