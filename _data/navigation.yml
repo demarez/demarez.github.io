@@ -3,9 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Talks & Events"
-    url: /events/
-  - title: "Other work"
-    url: /otherwork/    
+    url: /events/   
   - title: "CLAPP"
     url: /CLAPP.html
   - title: "CV"
