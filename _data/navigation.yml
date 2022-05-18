@@ -1,0 +1,10 @@
+# links
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks & Events"
+    url: /events/   
+  - title: "CLAPP"
+    url: "./_pages/CLAPP.html"
+  - title: "CV"
+    url: "./_pages/CV.pdf"

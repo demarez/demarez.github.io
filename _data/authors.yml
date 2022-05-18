@@ -1,0 +1,23 @@
+# /_data/authors.yml
+
+Charly de Marez:
+  name        : "Charly de Marez"
+  bio         : "PhD in Physical Oceanography"
+#  avatar      : "/assets/physindien/IMG_4865.JPG"
+  links:
+    - label: "cdemarez[at]caltech.edu"
+
+      url: "mailto:cdemarez@caltech.edu"
+      icon: "fas fa-fw fa-envelope-square"
+    - label: "ResearchGate"
+      url: "https://www.researchgate.net/profile/Charly-De-Marez"
+      icon: "fab fa-fw fa-researchgate"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=KymzoXMAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/charly-de-marez-194092123/"
+
+
+
