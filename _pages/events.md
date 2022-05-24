@@ -18,6 +18,16 @@ header:
 <p> February 2020, Ocean Sciences Meeting, San Diego, <a href="/assets/OS2020.pdf">Poster</a></p>
 <p> April 2019, EGU meeting, Vienna. <a href="/assets/EGU2019.pdf">Poster</a></p>
 
+## Fellowships & awards 
+
+
+<p>2022, Best Exact and Experimental Sciences PhD thesis award, The Royal Naval Academy of France</p> 
+  
+<p>2022, Best PhD thesis award, French section of the International Union of Geodesy and Geophysics</p> 
+  
+<p>2018, DGA (French Army department) doctoral Fellowship</p> 
+
+
 ## Other 
 
 <p> May 2019, Physindien 2019 experiment, Arabian Sea, member of scientific team onboard French Navy's BHO Beautemps-Beaupré.
