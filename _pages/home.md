@@ -30,7 +30,7 @@ However, the sea surface height field at these fine scales is expected to be a c
 
 <p align="justify">
 My work as a postdoc is to give new keys in the understanding of this balanced turbulence, to allow to better disentangle signals when the satellite fly over the ocean.
-To do so, I use a combination of state-of-the-art <i>in situ</i> data and numerical simulations. This work is done in collaboration to people from Jet Propulsion Laboratory and SCRIPPS Institution of Oceanography.
+To do so, I use a combination of state-of-the-art <i>in situ</i> data and numerical simulations. This work is done in collaboration with people from Jet Propulsion Laboratory and SCRIPPS Institution of Oceanography.
 </p>
 
 
@@ -38,7 +38,7 @@ To do so, I use a combination of state-of-the-art <i>in situ</i> data and numeri
 ## Vortices in the Arabian Sea
 
 <p align="justify">
-During my PhD, I studid the dynamics of meso- and submeso-scale coherent structures in the Arabian Sea. This work was supervised by <a href="https://scholar.google.com/citations?user=R_-h7fgAAAAJ&hl=en">Xavier Carton</a> and <a href="https://scholar.google.fr/citations?user=EI2ZEqAAAAAJ&hl=fr">Thomas Meunier</a>, in strong collaboration with <a href="https://www.researchgate.net/profile/Pierre-Lhegaret">Pierre L'Hégaret</a> and <a href="https://www.researchgate.net/profile/Mathieu-Morvan">Mathieu Morvan</a>. It took place at LOPS in <a href="https://en.wikipedia.org/wiki/T%C3%ADr_na_n%C3%93g">Brest</a> thanks to DGA's funding.
+During my PhD, I studied the dynamics of meso- and submeso-scale coherent structures in the Arabian Sea. This work was supervised by <a href="https://scholar.google.com/citations?user=R_-h7fgAAAAJ&hl=en">Xavier Carton</a> and <a href="https://scholar.google.fr/citations?user=EI2ZEqAAAAAJ&hl=fr">Thomas Meunier</a>, in strong collaboration with <a href="https://www.researchgate.net/profile/Pierre-Lhegaret">Pierre L'Hégaret</a> and <a href="https://www.researchgate.net/profile/Mathieu-Morvan">Mathieu Morvan</a>. It took place at LOPS in <a href="https://en.wikipedia.org/wiki/T%C3%ADr_na_n%C3%93g">Brest</a> thanks to DGA's funding.
 </p>
 
 <figure> <img src="/assets/nice_ending.png">
