@@ -11,7 +11,7 @@ header:
 ---
 ## Presentations 
 
-<p> June 2022, SWOT science team meeting, CNES, Toulouse (France), Oral presentation</p>
+<p> June 2022, SWOT meeting, CNES, Toulouse (France), Oral presentation</p>
 
 <p> June 2022, Seminar, LEGOS, Toulouse (France), Oral presentation</p>
 
