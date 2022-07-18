@@ -11,6 +11,8 @@ header:
 ---
 ## Presentations 
 
+<p> July 2022, Seminar, Institut de Ciències del Mar, Barcelona (Spain), Oral presentation</p>
+
 <p> June 2022, SWOT meeting, CNES, Toulouse (France), Oral presentation</p>
 
 <p> June 2022, Seminar, LEGOS, Toulouse (France), Oral presentation</p>
