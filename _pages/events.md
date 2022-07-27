@@ -19,7 +19,7 @@ header:
 
 <p> March 2022, Ocean Sciences Meeting, Virtual, <a href="https://youtu.be/DLXDXgitxIs">Oral presentation</a></p>
 
-<p>  PhD Thesis defence, <a href="https://youtu.be/po4KssS-vCA.">Talk</a> (in french), <a href="/assets/SOUTENANCE_V2_compressed_no_anim.pdf">Slides</a> (in english)</p> 
+<p>  September 2021, PhD Thesis defence, <a href="https://youtu.be/po4KssS-vCA.">Talk</a> (in french), <a href="/assets/SOUTENANCE_V2_compressed_no_anim.pdf">Slides</a> (in english)</p> 
 
 <p> February 2020, Ocean Sciences Meeting, San Diego, <a href="/assets/OS2020.pdf">Poster</a></p>
 <p> April 2019, EGU meeting, Vienna, <a href="/assets/EGU2019.pdf">Poster</a></p>
