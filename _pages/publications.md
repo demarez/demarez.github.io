@@ -12,7 +12,7 @@ header:
 
 ## Peer-reviewed
 
-<p>  [17] Maréchal G. &amp; <b>de Marez, C.</b> (2022) Variability of wind wave field by realistic mesoscale and submesoscale eddy field, <i>Ocean Sciences</i>.</p> 
+<p>  [17] Maréchal G. &amp; <b>de Marez, C.</b> (2022) <a href="https://os.copernicus.org/articles/18/1275/2022/">Variability of wind wave field by realistic mesoscale and submesoscale eddy field</a>, <i>Ocean Sciences</i>.</p> 
 <p>  [16] <b>de Marez, C.</b> &amp; Carton, X. (2021) <a href="https://link.springer.com/article/10.1134/S1560354721050063">Interaction of an upwelling front with external vortices: impact on cross-shore particle exchange</a>, <i>Regular and Chaotic Dynamics</i>.</p> 
 <p>  [15] <b>de Marez, C.</b>, Le Corre, M., &amp; Gula, J. (2021)  <a href="https://www.sciencedirect.com/science/article/abs/pii/S146350032100127X">The influence of merger and convection on an anticyclonic eddy trapped in a bowl</a>, <i>Ocean Modelling</i>.</p> 
 <p>  [14] Meunier, T., Pallas-Sanz, E., <b>de Marez, C. </b>, &amp; Pérez, J., (2021) <a href="https://www.mdpi.com/2072-4292/13/13/2456">The Dynamical Structure of a Warm Core Ring as Inferred from Glider Observations and Along-Track Altimetry</a>, <i>Remote Sensing</i>.</p>
