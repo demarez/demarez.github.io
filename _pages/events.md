@@ -11,6 +11,10 @@ header:
 ---
 ## Presentations 
 
+<p> Dec. 2022, AGU Fall, Chicago (U.S.A), Oral presentation, session convener </p> 
+  
+<p> Oct. 2022, Physical Oceanography Dissertation Symposium, Kailua-Kona (Hawaii, U.S.A), Oral presentation </p> 
+
 <p> July 2022, Seminar, Institut de Ciències del Mar, Barcelona (Spain), Oral presentation</p>
 
 <p> June 2022, SWOT meeting, CNES, Toulouse (France), Oral presentation</p>
@@ -26,7 +30,8 @@ header:
 
 ## Fellowships & awards 
 
-
+<p> 2022, Excellence Award for a PhD thesis in Ocean Sciences, University of Western Brittany</p> 
+  
 <p>2022, Best Exact and Experimental Sciences PhD thesis award, The Royal Naval Academy of France</p> 
   
 <p>2022, Best PhD thesis award, French section of the International Union of Geodesy and Geophysics</p> 
