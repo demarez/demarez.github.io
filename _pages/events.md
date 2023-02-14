@@ -30,6 +30,8 @@ header:
 
 ## Fellowships & awards 
 
+<p> 2023, Thesis Award, The Monaco Oceanographic Institute, Fondation Albert 1er </p> 
+
 <p> 2022, Excellence Award for a PhD thesis in Ocean Sciences, University of Western Brittany</p> 
   
 <p>2022, Best Exact and Experimental Sciences PhD thesis award, The Royal Naval Academy of France</p> 
