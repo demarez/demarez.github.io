@@ -10,8 +10,9 @@ header:
   overlay_image: /assets/physindien/IMG_4395.JPG
 ---
 
-## Peer-reviewed
+## Peer-reviewe
 
+<p>  [19] Cassianides, A., Lique, C., Tréguier, A-M., Meneghello, G., &amp; <b>de Marez, C.</b> Observed spatio-temporal variability of the eddy-sea ice interactions in the Arctic Basin, <i>JGR: Oceans (in revision)</i>.</p> 
 <p>  [18] <b>de Marez, C.</b>, Callies, J., Haines, B., Rodriguez-Chavez, D., &amp; Wang, J. Observational Constraints on the Submesoscale Sea Surface Height Variance of Balanced Motion, <i>Journal of Physical Oceanography (in press)</i>.</p> 
 <p>  [17] Maréchal G. &amp; <b>de Marez, C.</b> (2022) <a href="https://os.copernicus.org/articles/18/1275/2022/">Variability of wind wave field by realistic mesoscale and submesoscale eddy field</a>, <i>Ocean Sciences</i>.</p> 
 <p>  [16] <b>de Marez, C.</b> &amp; Carton, X. (2021) <a href="https://link.springer.com/article/10.1134/S1560354721050063">Interaction of an upwelling front with external vortices: impact on cross-shore particle exchange</a>, <i>Regular and Chaotic Dynamics</i>.</p> 
