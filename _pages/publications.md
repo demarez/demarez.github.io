@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/physindien/IMG_4395.JPG
 ---
 
-## Peer-reviewe
+## Peer-reviewed
 
 <p>  [19] Cassianides, A., Lique, C., Tréguier, A-M., Meneghello, G., &amp; <b>de Marez, C.</b> Observed spatio-temporal variability of the eddy-sea ice interactions in the Arctic Basin, <i>JGR: Oceans (in revision)</i>.</p> 
 <p>  [18] <b>de Marez, C.</b>, Callies, J., Haines, B., Rodriguez-Chavez, D., &amp; Wang, J. (2023) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0188.1/JPO-D-22-0188.1.xml?tab_body=abstract-display">Observational Constraints on the Submesoscale Sea Surface Height Variance of Balanced Motion</a>, <i>Journal of Physical Oceanography</i>.</p> 
