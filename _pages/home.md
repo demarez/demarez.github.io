@@ -49,7 +49,7 @@ They provide for a strong prior for the interpretation of upcoming high-resoluti
 <p align="justify">
 Despite this, and despite the amount of data sampled by current and upcoming satellite missions, the shape of the frequency spectra that we measure is for now poorly understood. 
 We thus then use satellite measurements of sea surface height timeseries, combined with global oceanic re-analysis and idealized numerical simulations to study the properties of the frequency spectrum for oceanic turbulence.
-In particular we showed that the meridional gradient of Potential Vorticity, as well as the barotropic current are the main parameters that shape the frequency spectrum of Sea Surface Height as observed by satellite altimetry. In particular, a simple linear scaling exists and allows to retrieve the vertical gradient of potential vorticity value from frequency spectra analysis.
+In particular we showed that the meridional gradient of Potential Vorticity, as well as the barotropic current are the main parameters that shape the frequency spectrum of sea surface height as observed by satellite altimetry. In particular, a simple linear scaling exists and allows to retrieve the vertical gradient of potential vorticity value from frequency spectra analysis.
 </p>
 
 
