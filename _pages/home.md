@@ -17,7 +17,7 @@ header:
 
 
 <p align="justify">
- I am a postdoc at California Institute of Technology, in the ocean physics group led by <a href=" https://jcallies.com/">Jörn Callies</a>. My current work focuses on the study of the spectral content of Sea Surface Height in the context of the upcoming SWOT mission. This work is funded by NASA and aims at giving more understanding on the dynamics of surface marine currents. 
+I am a postdoc at the University of Iceland, working on the understanding and characterization of oceanic structures in the Icelandic Basin. This work is done under a Queen Margrethe’s and Vigdís Finnbogadóttir's fellowship in collaboration with Angel Ruiz-Angulo. 
 </p>
 
 ## Study of surface oceanic turbulence 
@@ -88,7 +88,7 @@ Beside the focus made on the Arabian Sea for this PhD Thesis work, my general in
 </p>
 
 
-## Is the Earth flat by the way?
+## Is the Earth flat btw?
 
 <figure> <img src="/assets/compare_current_fancy.png">
 <figcaption> Nope, at least if we trust state-of-the-art numerical simulations: click <a href="https://arxiv.org/abs/2001.01521">here</a>, not <a href="https://www.youtube.com/watch?v=pMKQTyrqTs0">here</a>. </figcaption> </figure>
