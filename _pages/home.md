@@ -40,11 +40,7 @@ This work was done in collaboration with people from Jet Propulsion Laboratory a
 I first used a combination of <i>in situ</i> and remotely sensed observations to constrain the imprint of submesoscale turbulence in the sea surface height (SSH) field.
 The distribution of SSH variance across frequencies and wavenumbers was estimated by comparing an empirical model spectrum to two sets of observations.
 First, submesoscale SSH variance is constrained using a pair of GPS buoys spaced at about 10 km.
-From these data, one can estimate frequency spectra not only of SSH variance but also of the variance in the SSH difference between the buoys.
-The ratio between these two spectral estimates is sensitive to how much SSH variance is present in the submesoscale range and thus constrains the spectral roll-off of SSH variance in wavenumber space.
 Second, a combination of moored current meters and nadir altimetry is used to obtain an independent constraint.
-This constraint is enabled by geostrophy and the non-separability of the wavenumber-frequency spectrum of SSH variance revealed by the GPS data.
-The frequency spectra of kinetic energy and SSH variance follow different power laws, and the difference constrains the spectral content in wavenumber space, allowing for a constraint without the need to actually resolve the submesoscales in space.
 In all four locations studied, spanning the mid-latitude and subtropical ocean, these constraints indicate that the wavenumber spectral roll-off of submesoscale SSH variance is between about -4 and -5.
 These estimates are consistent with previous observations, model results, and theoretical predictions.
 They provide for a strong prior for the interpretation of upcoming high-resolution satellite data.
