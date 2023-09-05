@@ -29,7 +29,7 @@ However, the sea surface height field at these fine scales is expected to be a c
 </p>
 
 <p align="justify">
-During a NASA-funded postdoc at California Institute of Technology, in the ocean physics group led by <a href=" https://jcallies.com/">Jörn Callies</a>, I worked in the understanding of this balanced turbulence, to allow to better disentangle signals when the satellites fly over the ocean, and I especially focused on the study of the spectral content of Sea Surface Height. 
+During a NASA-funded postdoc at California Institute of Technology, in the ocean physics group led by <a href=" https://jcallies.com/">Jörn Callies</a>, I worked in the understanding of the balanced turbulence, to allow to better disentangle signals when the satellites fly over the ocean, and I especially focused on the study of the spectral content of Sea Surface Height. 
 This work was done in collaboration with people from Jet Propulsion Laboratory and SCRIPPS Institution of Oceanography.
 </p>
 
