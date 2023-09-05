@@ -29,9 +29,27 @@ However, the sea surface height field at these fine scales is expected to be a c
 </p>
 
 <p align="justify">
-During a NASA-funded postdoc at California Institute of Technology, in the ocean physics group led by <a href=" https://jcallies.com/">Jörn Callies</a>, I worked in the understanding of this balanced turbulence, to allow to better disentangle signals when the satellites fly over the ocean, and especially focus on the study of the spectral content of Sea Surface Height. 
-To do so, I used a combination of state-of-the-art <i>in situ</i> data and numerical simulations. This work was done in collaboration with people from Jet Propulsion Laboratory and SCRIPPS Institution of Oceanography.
+During a NASA-funded postdoc at California Institute of Technology, in the ocean physics group led by <a href=" https://jcallies.com/">Jörn Callies</a>, I worked in the understanding of this balanced turbulence, to allow to better disentangle signals when the satellites fly over the ocean, and I especially focused on the study of the spectral content of Sea Surface Height. 
+This work was done in collaboration with people from Jet Propulsion Laboratory and SCRIPPS Institution of Oceanography.
 </p>
+
+<figure> <img src="/assets/recap_mooring_v2.png">
+<figcaption> Constraints on submesoscale SSH variance from moored current meters and satellite altimetry: using the observed spectra at three locations (panels a,b) we can estimate the wavenumber slope $s_k$ in panel (c). </figcaption> </figure>
+
+<p align="justify">
+I first used a combination of <i>in situ</i> and remotely sensed observations to constrain the imprint of submesoscale turbulence in the sea surface height (SSH) field.
+The distribution of SSH variance across frequencies and wavenumbers was estimated by comparing an empirical model spectrum to two sets of observations.
+First, submesoscale SSH variance is constrained using a pair of GPS buoys spaced at about 10~km.
+From these data, one can estimate frequency spectra not only of SSH variance but also of the variance in the SSH difference between the buoys.
+The ratio between these two spectral estimates is sensitive to how much SSH variance is present in the submesoscale range and thus constrains the spectral roll-off of SSH variance in wavenumber space.
+Second, a combination of moored current meters and nadir altimetry is used to obtain an independent constraint.
+This constraint is enabled by geostrophy and the non-separability of the wavenumber--frequency spectrum of SSH variance revealed by the GPS data.
+The frequency spectra of kinetic energy and SSH variance follow different power laws, and the difference constrains the spectral content in wavenumber space, allowing for a constraint without the need to actually resolve the submesoscales in space.
+In all four locations studied, spanning the mid-latitude and subtropical ocean, these constraints indicate that the wavenumber spectral roll-off of submesoscale SSH variance is between about~$k^{-4}$ and~$k^{-5}$, where $k$ is the wavenumber.
+These estimates are consistent with previous observations, model results, and theoretical predictions.
+They provide for a strong prior for the interpretation of upcoming high-resolution satellite data.
+</p>
+
 
 
 
