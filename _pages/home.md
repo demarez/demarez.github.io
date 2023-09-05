@@ -24,13 +24,13 @@ header:
 
 <p align="justify">
 We know that oceanic currents with horizontal scales smaller than 100 km are a major part of the oceanic circulation. For now, we do not have a global characterization of these flows and their impact because of the crude resolution of satellite altimetry.
-The Surface Water and Ocean Topography (SWOT) mission, scheduled for launch in late 2022, is expected to lower the noise floor and thus allow to characterize finner scales.
+The Surface Water and Ocean Topography (SWOT) mission, launched in late 2022, is expected to lower the noise floor and thus allow to characterize finner scales.
 However, the sea surface height field at these fine scales is expected to be a combination of geostrophic (balanced) turbulence and internal gravity waves.
 </p>
 
 <p align="justify">
-My work as a postdoc is to give new keys in the understanding of this balanced turbulence, to allow to better disentangle signals when the satellite fly over the ocean.
-To do so, I use a combination of state-of-the-art <i>in situ</i> data and numerical simulations. This work is done in collaboration with people from Jet Propulsion Laboratory and SCRIPPS Institution of Oceanography.
+During a NASA-funded postdoc at California Institute of Technology, in the ocean physics group led by <a href=" https://jcallies.com/">Jörn Callies</a>, I worked in the understanding of this balanced turbulence, to allow to better disentangle signals when the satellites fly over the ocean, and especially focus on the study of the spectral content of Sea Surface Height. 
+To do so, I used a combination of state-of-the-art <i>in situ</i> data and numerical simulations. This work was done in collaboration with people from Jet Propulsion Laboratory and SCRIPPS Institution of Oceanography.
 </p>
 
 
