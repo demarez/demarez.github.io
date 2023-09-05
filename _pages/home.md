@@ -17,7 +17,7 @@ header:
 
 
 <p align="justify">
- I am a postdoc at California Institute of Technology, in the ocean physics group led by <a href=" https://jcallies.com/">Jörn Callies</a>. My current work focuses on the study of the spectral content of Sea Surface Height in the context of the upcoming SWOT mission. This work is funded by NASA and aims at giving more understanding on the dynamics of surface marine currents. 
+I am a postdoc at the University of Iceland, working on the understanding and characterization of oceanic structures in the Icelandic Basin. This work is done under a Queen Margrethe’s and Vigdís Finnbogadóttir's fellowship in collaboration with Angel Ruiz-Angulo. 
 </p>
 
 ## Study of surface oceanic turbulence 
@@ -34,22 +34,27 @@ This work was done in collaboration with people from Jet Propulsion Laboratory a
 </p>
 
 <figure> <img src="/assets/recap_mooring_v2.png">
-<figcaption> Constraints on submesoscale SSH variance from moored current meters and satellite altimetry: using the observed spectra at three locations (panels a,b) we can estimate the wavenumber slope $s_k$ in panel (c). </figcaption> </figure>
+<figcaption> Constraints on submesoscale SSH variance from moored current meters and satellite altimetry: using the observed spectra at three locations (panels a,b) we can estimate the wavenumber slope in panel (c). </figcaption> </figure>
 
 <p align="justify">
 I first used a combination of <i>in situ</i> and remotely sensed observations to constrain the imprint of submesoscale turbulence in the sea surface height (SSH) field.
 The distribution of SSH variance across frequencies and wavenumbers was estimated by comparing an empirical model spectrum to two sets of observations.
-First, submesoscale SSH variance is constrained using a pair of GPS buoys spaced at about 10~km.
+First, submesoscale SSH variance is constrained using a pair of GPS buoys spaced at about 10 km.
 From these data, one can estimate frequency spectra not only of SSH variance but also of the variance in the SSH difference between the buoys.
 The ratio between these two spectral estimates is sensitive to how much SSH variance is present in the submesoscale range and thus constrains the spectral roll-off of SSH variance in wavenumber space.
 Second, a combination of moored current meters and nadir altimetry is used to obtain an independent constraint.
-This constraint is enabled by geostrophy and the non-separability of the wavenumber--frequency spectrum of SSH variance revealed by the GPS data.
+This constraint is enabled by geostrophy and the non-separability of the wavenumber-frequency spectrum of SSH variance revealed by the GPS data.
 The frequency spectra of kinetic energy and SSH variance follow different power laws, and the difference constrains the spectral content in wavenumber space, allowing for a constraint without the need to actually resolve the submesoscales in space.
-In all four locations studied, spanning the mid-latitude and subtropical ocean, these constraints indicate that the wavenumber spectral roll-off of submesoscale SSH variance is between about~$k^{-4}$ and~$k^{-5}$, where $k$ is the wavenumber.
+In all four locations studied, spanning the mid-latitude and subtropical ocean, these constraints indicate that the wavenumber spectral roll-off of submesoscale SSH variance is between about -4 and -5.
 These estimates are consistent with previous observations, model results, and theoretical predictions.
 They provide for a strong prior for the interpretation of upcoming high-resolution satellite data.
 </p>
 
+<p align="justify">
+Despite this, and despite the amount of data sampled by current and upcoming satellite missions, the shape of the frequency spectra that we measure is for now poorly understood. 
+We thus then use satellite measurements of Sea Surface Height timeseries, combined with global oceanic re-analysis and idealized numerical simulations to study the properties of the frequency spectrum for oceanic turbulence.
+In particular we showed that the meridional gradient of Potential Vorticity, as well as the barotropic current are the main parameters that shape the frequency spectrum of Sea Surface Height as observed by satellite altimetry. In particular, a simple linear scaling exists and allows to retrieve the vertical gradient of potential vorticity value from frequency spectra analysis.
+</p>
 
 
 
@@ -83,7 +88,7 @@ Beside the focus made on the Arabian Sea for this PhD Thesis work, my general in
 </p>
 
 
-## Is the Earth flat by the way?
+## Is the Earth flat btw?
 
 <figure> <img src="/assets/compare_current_fancy.png">
 <figcaption> Nope, at least if we trust state-of-the-art numerical simulations: click <a href="https://arxiv.org/abs/2001.01521">here</a>, not <a href="https://www.youtube.com/watch?v=pMKQTyrqTs0">here</a>. </figcaption> </figure>
