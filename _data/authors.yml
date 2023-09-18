@@ -5,9 +5,9 @@ Charly de Marez:
   bio         : "PhD in Physical Oceanography"
 #  avatar      : "/assets/physindien/IMG_4865.JPG"
   links:
-    - label: "cdemarez[at]caltech.edu"
+    - label: "charly[at]hi.is"
 
-      url: "mailto:cdemarez@caltech.edu"
+      url: "mailto:charly@hi.is"
       icon: "fas fa-fw fa-envelope-square"
     - label: "ResearchGate"
       url: "https://www.researchgate.net/profile/Charly-De-Marez"
