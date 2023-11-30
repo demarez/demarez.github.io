@@ -12,6 +12,7 @@ header:
 
 ## Peer-reviewed
 
+<p>  [20] <b>de Marez, C.</b>, Ruiz-Angulo, A., &amp; Le Corre, M. Structure of the bottom boundary current South of Iceland and spreading of deep waters by submesoscale processes, <i>Geophysical Research Letters (submitted)</i>.</p>
 <p>  [19] Cassianides, A., Lique, C., Tréguier, A-M., Meneghello, G., &amp; <b>de Marez, C.</b> (2023) <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019469"> Observed spatio-temporal variability of the eddy-sea ice interactions in the Arctic Basin</a>, <i>JGR: Oceans</i>.</p> 
 <p>  [18] <b>de Marez, C.</b>, Callies, J., Haines, B., Rodriguez-Chavez, D., &amp; Wang, J. (2023) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0188.1/JPO-D-22-0188.1.xml?tab_body=abstract-display">Observational Constraints on the Submesoscale Sea Surface Height Variance of Balanced Motion</a>, <i>Journal of Physical Oceanography</i>.</p> 
 <p>  [17] Maréchal G. &amp; <b>de Marez, C.</b> (2022) <a href="https://os.copernicus.org/articles/18/1275/2022/">Variability of wind wave field by realistic mesoscale and submesoscale eddy field</a>, <i>Ocean Sciences</i>.</p> 
