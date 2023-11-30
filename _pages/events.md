@@ -11,6 +11,12 @@ header:
 ---
 ## Presentations 
 
+<p> Feb. 2024, Ocean Sciences Meeting, New Orleans, Poster </p> 
+
+<p> Dec. 2023, Icelandic Oceanography Symposium, Hafnarfjörður (Iceland), Oral presentation </p> 
+
+<p> Oct. 2023, ROCS Lecture, online, Oral presentation </p> 
+
 <p> Dec. 2022, AGU Fall, Chicago (U.S.A), Oral presentation, session convener </p> 
   
 <p> Oct. 2022, Physical Oceanography Dissertation Symposium, Kailua-Kona (Hawaii, U.S.A), Oral presentation </p> 
@@ -25,7 +31,8 @@ header:
 
 <p>  September 2021, PhD Thesis defence, <a href="https://youtu.be/po4KssS-vCA.">Talk</a> (in french), <a href="/assets/SOUTENANCE_V2_compressed_no_anim.pdf">Slides</a> (in english)</p> 
 
-<p> February 2020, Ocean Sciences Meeting, San Diego, <a href="/assets/OS2020.pdf">Poster</a></p>
+<p> Feb. 2020, Ocean Sciences Meeting, San Diego, <a href="/assets/OS2020.pdf">Poster</a></p>
+
 <p> April 2019, EGU meeting, Vienna, <a href="/assets/EGU2019.pdf">Poster</a></p>
 
 ## Fellowships & awards 
