@@ -28,8 +28,11 @@ In particular, while it is the crossroad of this global circulation, the region 
 During my current postoctoral position at University of Iceland, I study the oceanic ciruclation in this area, in collaboration with Angel Ruiz-Angulo, using a combination of numerical simulations, in situ data, and remote sensing data.
 
 One of the first result of our project we found that a steady current flows along the Icelandic continental shelf at about 1000 m depth.
-When flowing over the rough topography, this bottom current generates a 200 m large bottom mixed layer, and it generates many submesoscale structures (SCVs) at the southernmost tip of the Icelandic shelf
+When flowing over the rough topography, this bottom current generates a 200 m large bottom mixed layer, and it generates many submesoscale structures (SCVs) at the southernmost tip of the Icelandic shelf.
 These latter subsequently spread water masses in the Iceland Basin.
+
+
+[<img src="/assets/play.png">](https://www.youtube.com/watch?v=4DsJCUtKFXg)
 
 https://github.com/demarez/demarez.github.io/assets/36727024/dda01edc-379a-4282-a654-52c7bf369e0c
 
