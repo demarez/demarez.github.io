@@ -18,26 +18,27 @@ header:
 
 <p align="justify">
 I am a postdoc at the University of Iceland, working on the understanding and characterization of oceanic structures in the Icelandic Basin. This work is done under a Queen Margrethe’s and Vigdís Finnbogadóttir's fellowship in collaboration with Angel Ruiz-Angulo. 
-</p>
+
 
 ## Oceanic circulation South of Iceland
 
+<p align="justify">
 Water masses formed in the Arctic Ocean overflow into the North Atlantic at the bottom of the ocean, forming the so-called upper cell of the Atlantic Meridional Overturning Circulation (AMOC).
 The pathway of the currents carrying these water masses is still under debate due to a lack of observations.
 In particular, while it is the crossroad of this global circulation, the region south of Iceland has been poorly studied in details and there is no consensus on the shape and intensity of bottom currents carrying water from Nordic Seas to the North Atlantic.
 It appears that a steady current flows along the Icelandic continental shelf at about 1000 m depth.
 When flowing over the rough topography, this bottom current generates a 200 m large bottom mixed layer, and it generates many submesoscale structures (SCVs) at the southernmost tip of the Icelandic shelf
 These latter subsequently spread water masses in the Iceland Basin.
+</p>
 
-
-
+<p align="justify">
 The dense water carried by this bottom current has enormous importance as it significantly contributes to the lower limb of the AMOC. 
 Moreover, the winter convection there can create surface mixed layer depths over 700 m, which in some regions allows the exchange of surface waters with dense bottom waters. 
 The upper ocean in this region is warming up and IPCC projections suggest this will continue at even higher rates than other basins. 
 South of Iceland, the combination of deep mixed layers with warmer surface waters, and thick bottom boundary currents with cold-dense waters may exchange this excess of heat resulting in changes of these dense waters in a warming climate.   
 Furthermore, this bottom boundary current appears to be a key phenomenon to sustain biological activity in the area.
 Indeed, the distribution of several Cold Water Coral species strongly coincides with the position of the bottom current.
-
+</p>
 
 
 
