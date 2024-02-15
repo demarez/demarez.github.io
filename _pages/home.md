@@ -30,13 +30,7 @@ When flowing over the rough topography, this bottom current generates a 200 m la
 These latter subsequently spread water masses in the Iceland Basin.
 </p>
 
-
-
-<video width="320" height="240" controls>
-  <source src="/assets/36727024/dda01edc-379a-4282-a654-52c7bf369e0c" type="video/mp4">
-<figcaption> blabla </figcaption>
-  
-</video>
+https://github.com/demarez/demarez.github.io/assets/36727024/dda01edc-379a-4282-a654-52c7bf369e0c
 
 <p align="justify">
 The dense water carried by this bottom current has enormous importance as it significantly contributes to the lower limb of the AMOC. 
