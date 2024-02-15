@@ -11,7 +11,7 @@ header:
 ---
 ## Presentations 
 
-<p> Feb. 2024, Ocean Sciences Meeting, New Orleans, Poster </p> 
+<p> Feb. 2024, Ocean Sciences Meeting, New Orleans, <a href="/assets/OS2024_acc_1584223.pdf">Poster</a></p>
 
 <p> Dec. 2023, Icelandic Oceanography Symposium, Hafnarfjörður (Iceland), Oral presentation </p> 
 
