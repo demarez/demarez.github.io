@@ -31,6 +31,9 @@ When flowing over the rough topography, this bottom current generates a 200 m la
 These latter subsequently spread water masses in the Iceland Basin.
 </p>
 
+<video src="/assets/U_v2.avi" width="320" height="240" controls></video>
+
+
 <p align="justify">
 The dense water carried by this bottom current has enormous importance as it significantly contributes to the lower limb of the AMOC. 
 Moreover, the winter convection there can create surface mixed layer depths over 700 m, which in some regions allows the exchange of surface waters with dense bottom waters. 
