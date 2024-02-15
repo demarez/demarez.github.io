@@ -32,10 +32,7 @@ When flowing over the rough topography, this bottom current generates a 200 m la
 These latter subsequently spread water masses in the Iceland Basin.
 
 <center>
-  <figure>
 [<img src="/assets/play.png">](https://www.youtube.com/watch?v=4DsJCUtKFXg)
-
-  <figcaption> Constraints on submesoscale SSH variance from moored current meters and satellite altimetry: using the observed spectra at three locations (panels a,b) we can estimate the wavenumber slope in panel (c). </figcaption> </figure>
 </center> 
 
 The dense water carried by this bottom current has enormous importance as it significantly contributes to the lower limb of the AMOC. 
