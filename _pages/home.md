@@ -20,7 +20,7 @@ header:
 I am a postdoc at the University of Iceland, working on the understanding and characterization of oceanic structures in the Icelandic Basin. This work is done under a Queen Margrethe’s and Vigdís Finnbogadóttir's fellowship in collaboration with Angel Ruiz-Angulo. 
 </p>
 
-## Oceanic circulation around iceland
+## Oceanic circulation South of Iceland
 
 Water masses formed in the Arctic Ocean overflow into the North Atlantic at the bottom of the ocean, forming the so-called upper cell of the Atlantic Meridional Overturning Circulation (AMOC).
 The pathway of the currents carrying these water masses is still under debate due to a lack of observations.
