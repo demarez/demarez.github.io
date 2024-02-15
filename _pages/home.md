@@ -31,8 +31,8 @@ When flowing over the rough topography, this bottom current generates a 200 m la
 These latter subsequently spread water masses in the Iceland Basin.
 </p>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Y4DsJCUtKFXg/0.jpg)](https://www.youtube.com/watch?v=4DsJCUtKFXg)
 
-https://youtu.be/4DsJCUtKFXg
 
 
 <p align="justify">
