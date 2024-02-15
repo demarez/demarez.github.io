@@ -31,11 +31,12 @@ One of the first result of our project we found that a steady current flows alon
 When flowing over the rough topography, this bottom current generates a 200 m large bottom mixed layer, and it generates many submesoscale structures (SCVs) at the southernmost tip of the Icelandic shelf.
 These latter subsequently spread water masses in the Iceland Basin.
 
-
+<center>
+  <figure>
 [<img src="/assets/play.png">](https://www.youtube.com/watch?v=4DsJCUtKFXg)
 
-https://github.com/demarez/demarez.github.io/assets/36727024/dda01edc-379a-4282-a654-52c7bf369e0c
-
+  <figcaption> Constraints on submesoscale SSH variance from moored current meters and satellite altimetry: using the observed spectra at three locations (panels a,b) we can estimate the wavenumber slope in panel (c). </figcaption> </figure>
+</center> 
 
 The dense water carried by this bottom current has enormous importance as it significantly contributes to the lower limb of the AMOC. 
 Moreover, the winter convection there can create surface mixed layer depths over 700 m, which in some regions allows the exchange of surface waters with dense bottom waters. 
