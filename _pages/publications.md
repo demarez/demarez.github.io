@@ -12,7 +12,7 @@ header:
 
 ## Peer-reviewed
 
-<p>  [21] Barabinot, Y., Reinaud, J., Carton, X., <b>de Marez, C.</b>, &amp;  Meunier T. A 3D Minimum Enstrophy Vortex in stratified quasi-geostrophic flows. <i>JFM Rapids (submitted)</i>.</p>
+<p>  [21] Barabinot, Y., Reinaud, J., Carton, X., <b>de Marez, C.</b>, &amp;  Meunier T. A 3D Minimum Enstrophy Vortex in stratified quasi-geostrophic flows. (2024) <i>Journal of Fluid Mechanics</i>.</p>
 <p>  [20] <b>de Marez, C.</b>, Ruiz-Angulo, A., &amp; Le Corre, M. (2024) <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107508"> Structure of the bottom boundary current South of Iceland and spreading of deep waters by submesoscale processes</a>, <i>Geophysical Research Letters</i>.</p>
 <p>  [19] Cassianides, A., Lique, C., Tréguier, A-M., Meneghello, G., &amp; <b>de Marez, C.</b> (2023) <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019469"> Observed spatio-temporal variability of the eddy-sea ice interactions in the Arctic Basin</a>, <i>JGR: Oceans</i>.</p> 
 <p>  [18] <b>de Marez, C.</b>, Callies, J., Haines, B., Rodriguez-Chavez, D., &amp; Wang, J. (2023) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0188.1/JPO-D-22-0188.1.xml?tab_body=abstract-display">Observational Constraints on the Submesoscale Sea Surface Height Variance of Balanced Motion</a>, <i>Journal of Physical Oceanography</i>.</p> 
