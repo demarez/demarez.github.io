@@ -11,6 +11,12 @@ header:
 ---
 ## Presentations 
 
+<p> May 2024, Seminar, Laboratoire d'Océanographie Physique et Spatiale, Brest (France), Oral presentation</p>
+
+<p> April 2024, Spring Conference of the Geoscience Society of Iceland, Reykjavík (Iceland), Oral presentation</p>
+
+<p> May 2024, Seminar, Laboratoire d'Océanographie Physique et Spatiale, Brest (France), Oral presentation</p>
+
 <p> Feb. 2024, Ocean Sciences Meeting, New Orleans, <a href="/assets/OS2024_acc_1584223.pdf">Poster</a></p>
 
 <p> Dec. 2023, Icelandic Oceanography Symposium, Hafnarfjörður (Iceland), Oral presentation </p> 
