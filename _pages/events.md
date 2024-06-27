@@ -11,6 +11,12 @@ header:
 ---
 ## Presentations 
 
+<p> June 2024, Seminar, Laboratoire d'Océanographie de Villefranche, Villefranche-sur-Mer (France), Oral presentation</p>
+
+<p> June 2024, Seminar, Institut Méditerranéen d'Océanologie, Marseille (France), Oral presentation</p>
+
+<p> June 2024, Seminar, Globe Institute, University of Copenhagen, Copenhagen (Denmark), Oral presentation</p>
+
 <p> May 2024, Seminar, Laboratoire d'Océanographie Physique et Spatiale, Brest (France), Oral presentation</p>
 
 <p> April 2024, Spring Conference of the Geoscience Society of Iceland, Reykjavík (Iceland), Oral presentation</p>
