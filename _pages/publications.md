@@ -12,6 +12,12 @@ header:
 
 ## Peer-reviewed
 
+
+<p>  [26] <b>de Marez, C.</b>,  Lee, B., A. &amp; Ruiz-Angulo, A. Study of blue whiting eggs and larvae dispersal by oceanic currents in the North Atlantic. <i>Fisheries Oceanography (in prep)</i>.</p>
+<p>  [25] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (in prep.)</i>.</p>
+<p>  [24] <b>de Marez, C.</b>,  Vives, C., Portela-Rodriguez, E., A. &amp; Ruiz-Angulo, A. Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region. <i>JGR: Oceans (submitted)</i>.</p>
+<p>  [23] <b>de Marez, C.</b>,  Ruiz-Angulo, A. &amp;  Gula, J. Observation and mechanisms for deep regional warming of the AMOC. <i>Communications Earth &amp; Environment (submitted)</i>.</p>
+<p>  [22] <b>de Marez, C.</b>, &amp;  Callies, J. The information contained in altimetric Sea Surface Height frequency spectra. <i>Journal of Physical Oceanography (submitted)</i>.</p>
 <p>  [21] Barabinot, Y., Reinaud, J., Carton, X., <b>de Marez, C.</b>, &amp;  Meunier T. (2024) A 3D Minimum Enstrophy Vortex in stratified quasi-geostrophic flows. <i>Journal of Fluid Mechanics</i>.</p>
 <p>  [20] <b>de Marez, C.</b>, Ruiz-Angulo, A., &amp; Le Corre, M. (2024) <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107508"> Structure of the bottom boundary current South of Iceland and spreading of deep waters by submesoscale processes</a>, <i>Geophysical Research Letters</i>.</p>
 <p>  [19] Cassianides, A., Lique, C., Tréguier, A-M., Meneghello, G., &amp; <b>de Marez, C.</b> (2023) <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019469"> Observed spatio-temporal variability of the eddy-sea ice interactions in the Arctic Basin</a>, <i>JGR: Oceans</i>.</p> 
