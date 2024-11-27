@@ -60,6 +60,8 @@ header:
 
 ## Other 
 
+<p> Sept. 2024, FARDWO-DS2 experiment, Denmark Strait, member of scientific team onboard R/V Sarmiento de Gamboa.
+
 <p> May 2019, Physindien 2019 experiment, Arabian Sea, member of scientific team onboard French Navy's BHO Beautemps-Beaupré.
 
 <figure> <img src="/assets/physindien/P1100111.JPG">
