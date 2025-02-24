@@ -43,6 +43,7 @@ header:
 ## PhD Thesis
 
 <p>  <b>de Marez, C.</b> (2021) <a href="http://www.theses.fr/2021BRES0064"> Dynamique des structures cohérentes de méso et sousméso-échelle en mer d'Arabie</a>, <i>PhD Thesis</i>.</p> 
+
 ## Other 
 
 <p> <a href="https://arxiv.org/abs/2001.01521">Can the earth be flat ? a physical oceanographer's perspective</a><p> 
