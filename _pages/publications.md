@@ -10,14 +10,17 @@ header:
   overlay_image: /assets/physindien/IMG_4395.JPG
 ---
 
-## Peer-reviewed
 
+## In process
 
 <p>  [27] <b>de Marez, C.</b>,  Lee, B., A. &amp; Ruiz-Angulo, A. Study of blue whiting eggs and larvae dispersal by oceanic currents in the North Atlantic. <i>Fisheries Oceanography (in prep)</i>.</p>
 <p>  [26] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (in prep.)</i>.</p>
 <p>  [25] <b>de Marez, C.</b> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico. <i>Ocean Science Letters (submitted)</i>.</p>
 <p>  [24] <b>de Marez, C.</b>,  Ruiz-Angulo, A. &amp;  Gula, J. High-Resolution Characterization of Mesoscale Eddies and Vertical Heat Fluxes estimate atop the Iceland Faroe Ridge. <i>GRL (submitted)</i>.</p>
 <p>  [23] <b>de Marez, C.</b>,  Vives, C., Portela-Rodriguez, E., A. &amp; Ruiz-Angulo, A. Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region. <i>JGR: Oceans (submitted)</i>.</p>
+
+## Peer-reviewed
+
 <p>  [22] <b>de Marez, C.</b>, &amp;  Callies, J. (2025) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0113.1/JPO-D-24-0113.1.xml">The information contained in altimetric Sea Surface Height frequency spectra</a>, <i>Journal of Physical Oceanography</i>.</p>
 <p>  [21] Barabinot, Y., Reinaud, J., Carton, X., <b>de Marez, C.</b>, &amp;  Meunier T. (2024) <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/3d-minimumenstrophy-vortex-in-stratified-quasigeostrophic-flows/AD410914EA148F21E201CAC86FDA75EC">A 3D Minimum Enstrophy Vortex in stratified quasi-geostrophic flows</a>, <i>Journal of Fluid Mechanics</i>.</p>
 <p>  [20] <b>de Marez, C.</b>, Ruiz-Angulo, A., &amp; Le Corre, M. (2024) <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107508"> Structure of the bottom boundary current South of Iceland and spreading of deep waters by submesoscale processes</a>, <i>Geophysical Research Letters</i>.</p>
