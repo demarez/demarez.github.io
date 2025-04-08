@@ -13,8 +13,8 @@ header:
 
 ## In process
 
-[//]: # <p>  [27] <b>de Marez, C.</b>,  Lee, B., A. &amp; Ruiz-Angulo, A. Study of blue whiting eggs and larvae dispersal by oceanic currents in the North Atlantic. <i>Fisheries Oceanography (in prep)</i>.</p>
-[//]: # <p>  [26] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (in prep.)</i>.</p>
+<p>  [27] <b>de Marez, C.</b>,  Lee, B., A. &amp; Ruiz-Angulo, A. Study of blue whiting eggs and larvae dispersal by oceanic currents in the North Atlantic. <i>Fisheries Oceanography (in prep)</i>.</p>
+<p>  [26] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (in prep.)</i>.</p>
 <p>  [25] <b>de Marez, C.</b> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico. <i>Ocean Science Letters (submitted)</i>.</p>
 <p>  [24] <b>de Marez, C.</b>,  Ruiz-Angulo, A. &amp;  Gula, J. High-Resolution Characterization of Mesoscale Eddies and Vertical Heat Fluxes estimate atop the Iceland Faroe Ridge. <i>GRL (submitted)</i>.</p>
 <p>  [23] <b>de Marez, C.</b>,  Vives, C., Portela-Rodriguez, E., A. &amp; Ruiz-Angulo, A. Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region. <i>JGR: Oceans (submitted)</i>.</p>
