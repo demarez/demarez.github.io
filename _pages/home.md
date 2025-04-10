@@ -17,7 +17,7 @@ header:
 
 
 <p align="justify">
-I am a postdoc at the University of Iceland, working on the understanding and characterization of oceanic structures in the Icelandic Basin. This work is done under a Queen Margrethe’s and Vigdís Finnbogadóttir's fellowship in collaboration with Angel Ruiz-Angulo. 
+I am a postdoc at the University of Iceland. My primary interest is for the understanding of meso and submesoscale structures in the ocean. I am currently working on the characterization of these structures around Iceland. This work is done under a Queen Margrethe’s and Vigdís Finnbogadóttir's fellowship in collaboration with Angel Ruiz-Angulo. 
 </p>
 
 ## Oceanic circulation South of Iceland
