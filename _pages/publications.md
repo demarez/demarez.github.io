@@ -28,7 +28,7 @@ header:
 
 ## Peer-reviewed
 
-<p>  [23] <b>de Marez, C.</b>,  Vives, C., Portela-Rodriguez, E., A. &amp; Ruiz-Angulo, A. Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region. <i>JGR: Oceans </i>.</p>
+<p>  [23] <b>de Marez, C.</b>,  Vives, C., Portela-Rodriguez, E., A. &amp; Ruiz-Angulo, A. (2025) Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region. <i>JGR: Oceans </i>.</p>
 <p>  [22] <b>de Marez, C.</b>, &amp;  Callies, J. (2025) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0113.1/JPO-D-24-0113.1.xml">The information contained in altimetric Sea Surface Height frequency spectra</a>, <i>Journal of Physical Oceanography</i>.</p>
 <p>  [21] Barabinot, Y., Reinaud, J., Carton, X., <b>de Marez, C.</b>, &amp;  Meunier T. (2024) <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/3d-minimumenstrophy-vortex-in-stratified-quasigeostrophic-flows/AD410914EA148F21E201CAC86FDA75EC">A 3D Minimum Enstrophy Vortex in stratified quasi-geostrophic flows</a>, <i>Journal of Fluid Mechanics</i>.</p>
 <p>  [20] <b>de Marez, C.</b>, Ruiz-Angulo, A., &amp; Le Corre, M. (2024) <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107508"> Structure of the bottom boundary current South of Iceland and spreading of deep waters by submesoscale processes</a>, <i>Geophysical Research Letters</i>.</p>
