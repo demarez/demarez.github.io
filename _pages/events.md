@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/physindien/IMG_4395.JPG
 ---
 ## Presentations 
+<p> Sept. 2024, FARDWO-DS2, Denmark Strait, member of scientific team onboard R/V Sarmiento de Gamboa.
 
 <p> June 2024, Seminar, Laboratoire d'Océanographie de Villefranche, Villefranche-sur-Mer (France), Oral presentation</p>
 
