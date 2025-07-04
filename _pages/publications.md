@@ -22,12 +22,13 @@ header:
 
 <p>  [27] Callies, J., <b>de Marez, C.</b>, Wang, J., &amp;  Haines, B. Closure of the sea surface height budget with a Stokes offset. <i>Journal of Physical Oceanography (submitted)</i>.</p>
 <p>  [26] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (submitted)</i>.</p>
-<p>  [25] <b>de Marez, C.</b> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico. <i>Ocean Science Letters (submitted)</i>.</p>
+
 
 
 
 ## Peer-reviewed
 
+<p>  [25] <b>de Marez, C.</b> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico. <i>Ocean Science Letters, Highlight paper (in production)</i>.</p>
 <p>  [24] <b>de Marez, C.</b>,  Ruiz-Angulo, A. &amp;  Gula, J. (2025) High-Resolution Characterization of Mesoscale Eddies and Vertical Heat Fluxes estimate atop the Iceland Faroe Ridge. <i>Geophysical Research Letters</i>.</p>
 <p>  [23] <b>de Marez, C.</b>,  Vives, C., Portela-Rodriguez, E., A. &amp; Ruiz-Angulo, A. (2025) <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022664">Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region </a>, <i>JGR: Oceans </i>.</p>
 <p>  [22] <b>de Marez, C.</b>, &amp;  Callies, J. (2025) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-24-0113.1/JPO-D-24-0113.1.xml">The information contained in altimetric Sea Surface Height frequency spectra</a>, <i>Journal of Physical Oceanography</i>.</p>
