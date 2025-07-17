@@ -11,9 +11,6 @@ header:
 ---
 
 
-## In prep
-
-<p>  [28] <b>de Marez, C.</b>,  Lee, B., A. &amp; Ruiz-Angulo, A. Study of blue whiting eggs and larvae dispersal by oceanic currents in the North Atlantic. <i>Fisheries Oceanography (in prep)</i>.</p>
 
 
 
