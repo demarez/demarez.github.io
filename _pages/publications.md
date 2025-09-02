@@ -17,11 +17,7 @@ header:
 
 ## Submitted
 
-
-<p>  [26] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (submitted)</i>.</p>
-
-
-
+<p>  [27] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (submitted)</i>.</p>
 
 ## Peer-reviewed
 
