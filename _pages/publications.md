@@ -21,7 +21,7 @@ header:
 
 ## Peer-reviewed
 
-<p>  [26] <b>de Marez, C.</b> (2025) Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico. <i>Ocean Science Letters, Highlight paper (in production)</i>.</p>
+<p>  [26] <b>de Marez, C.</b> (2025) <a href="https://os.copernicus.org/articles/21/1933/2025/"> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico</a>, <i>Ocean Science Letters, Highlight paper</i>.</p>
 <p>  [25] Callies, J., <b>de Marez, C.</b>, Wang, J., &amp;  Haines, B. (2025) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0130.1/JPO-D-25-0130.1.xml"> Closure of the sea surface height budget with a Stokes offset</a>, <i>Journal of Physical Oceanography</i>.</p>
 <p>  [24] <b>de Marez, C.</b>,  Ruiz-Angulo, A. &amp;  Gula, J. (2025) <a href="http://dx.doi.org/10.1029/2025GL115520">Mesoscale Induced Vertical Fluxes Over the Iceland-Faroe Ridge</a>, <i>Geophysical Research Letters</i>.</p>
 <p>  [23] <b>de Marez, C.</b>,  Vives, C., Portela-Rodriguez, E., A. &amp; Ruiz-Angulo, A. (2025) <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022664">Mesoscale Ocean Processes: The Critical Role of Stratification in the Icelandic Region</a>, <i>JGR: Oceans</i>.</p>
