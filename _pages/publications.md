@@ -17,7 +17,7 @@ header:
 
 ## Submitted
 
-<p>  [28] Ruiz-Angulo, Melgar, A., <b>de Marez, C.</b>, Deniau, A., Nencioli, F., A. &amp;  Hjörleifsdóttir, V. <a href="https://eartharxiv.org/repository/view/10335/">SWOT Satellite Altimetry Observations and Source Model for the Tsunami from the 2025 M8.8 Kamchatka Earthquake</a>, <i>The Seismic Record (submitted)</i>.</p>
+<p>  [28] Ruiz-Angulo, A., Melgar, D., <b>de Marez, C.</b>, Deniau, A., Nencioli, F., A. &amp;  Hjörleifsdóttir, V. <a href="https://eartharxiv.org/repository/view/10335/">SWOT Satellite Altimetry Observations and Source Model for the Tsunami from the 2025 M8.8 Kamchatka Earthquake</a>, <i>The Seismic Record (submitted)</i>.</p>
 <p>  [27] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (submitted)</i>.</p>
 
 ## Peer-reviewed
