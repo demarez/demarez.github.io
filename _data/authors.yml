@@ -5,9 +5,9 @@ Charly de Marez:
   bio         : "PhD in Physical Oceanography"
 #  avatar      : "/assets/physindien/IMG_4865.JPG"
   links:
-    - label: "charly[at]hi.is"
+    - label: "charly.demarez[at]univ-brest.fr"
 
-      url: "mailto:charly@hi.is"
+      url: "mailto:charly.demarez@univ-brest.fr"
       icon: "fas fa-fw fa-envelope-square"
     - label: "ResearchGate"
       url: "https://www.researchgate.net/profile/Charly-De-Marez"
