@@ -22,7 +22,7 @@ header:
 
 ## Peer-reviewed
 
-<p>  [27] Ruiz-Angulo, A., Melgar, D., <b>de Marez, C.</b>, Deniau, A., Nencioli, F., A. &amp;  Hjörleifsdóttir, V. (2025) <a href="https://eartharxiv.org/repository/view/10335/">SWOT Satellite Altimetry Observations and Source Model for the Tsunami from the 2025 M8.8 Kamchatka Earthquake</a>, <i>The Seismic Record</i>.</p>
+<p>  [27] Ruiz-Angulo, A., Melgar, D., <b>de Marez, C.</b>, Deniau, A., Nencioli, F., A. &amp;  Hjörleifsdóttir, V. (2025) <a href="https://pubs.geoscienceworld.org/ssa/tsr/article/5/4/341/718867/SWOT-Satellite-Altimetry-Observations-and-Source">SWOT Satellite Altimetry Observations and Source Model for the Tsunami from the 2025 M8.8 Kamchatka Earthquake</a>, <i>The Seismic Record</i>.</p>
 <p>  [26] <b>de Marez, C.</b> (2025) <a href="https://os.copernicus.org/articles/21/1933/2025/"> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico</a>, <i>Ocean Science Letters, Highlight paper</i>.</p>
 <p>  [25] Callies, J., <b>de Marez, C.</b>, Wang, J., &amp;  Haines, B. (2025) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0130.1/JPO-D-25-0130.1.xml"> Closure of the sea surface height budget with a Stokes offset</a>, <i>Journal of Physical Oceanography</i>.</p>
 <p>  [24] <b>de Marez, C.</b>,  Ruiz-Angulo, A. &amp;  Gula, J. (2025) <a href="http://dx.doi.org/10.1029/2025GL115520">Mesoscale Induced Vertical Fluxes Over the Iceland-Faroe Ridge</a>, <i>Geophysical Research Letters</i>.</p>
