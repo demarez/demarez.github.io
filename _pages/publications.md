@@ -18,6 +18,8 @@ header:
 ## Submitted
 
 
+
+<p>  [29] Gentil, M., <b>de Marez, C.</b>, Pallas-Sanz, E., Bosse, A., Tenreiro, M., &amp; Laxenaire, R. High-Resolution Observations Unveil (Sub)Mesoscale Heat Fluxes Shaping Upper-Ocean Heat Content. <i>Geophysical Research letters (submitted)</i>.</p>
 <p>  [28] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (submitted)</i>.</p>
 
 ## Peer-reviewed
