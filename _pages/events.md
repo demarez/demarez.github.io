@@ -11,6 +11,8 @@ header:
 ---
 ## Presentations 
 
+<p> Feb. 2026, Ocean Sciences Meeting, Glasgow (UK), <a href="/assets/OS2026.pdf">Poster</a></p>
+
 <p> June 2024, Seminar, Laboratoire d'Océanographie de Villefranche, Villefranche-sur-Mer (France), Oral presentation</p>
 
 <p> June 2024, Seminar, Institut Méditerranéen d'Océanologie, Marseille (France), Oral presentation</p>
@@ -21,7 +23,7 @@ header:
 
 <p> April 2024, Spring Conference of the Geoscience Society of Iceland, Reykjavík (Iceland), Oral presentation</p>
 
-<p> Feb. 2024, Ocean Sciences Meeting, New Orleans, <a href="/assets/OS2024_acc_1584223.pdf">Poster</a></p>
+<p> Feb. 2024, Ocean Sciences Meeting, New Orleans (U.S.A), <a href="/assets/OS2024_acc_1584223.pdf">Poster</a></p>
 
 <p> Dec. 2023, Icelandic Oceanography Symposium, Hafnarfjörður (Iceland), Oral presentation </p> 
 
@@ -41,9 +43,9 @@ header:
 
 <p>  September 2021, PhD Thesis defence, <a href="https://youtu.be/po4KssS-vCA.">Talk</a> (in french), <a href="/assets/SOUTENANCE_V2_compressed_no_anim.pdf">Slides</a> (in english)</p> 
 
-<p> Feb. 2020, Ocean Sciences Meeting, San Diego, <a href="/assets/OS2020.pdf">Poster</a></p>
+<p> Feb. 2020, Ocean Sciences Meeting, San Diego (U.S.A), <a href="/assets/OS2020.pdf">Poster</a></p>
 
-<p> April 2019, EGU meeting, Vienna, <a href="/assets/EGU2019.pdf">Poster</a></p>
+<p> April 2019, EGU meeting, Vienna (Austria), <a href="/assets/EGU2019.pdf">Poster</a></p>
 
 ## Fellowships & awards 
 
@@ -58,7 +60,7 @@ header:
 <p>2018, DGA (French Army department) doctoral Fellowship</p> 
 
 
-## Other 
+## Cruises
 
 <p> Sept. 2024, FARDWO-DS2 experiment, Denmark Strait, member of scientific team onboard R/V Sarmiento de Gamboa.
 
