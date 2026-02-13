@@ -35,7 +35,9 @@ Direct measurements from gliders, moorings, and research vessels provide essenti
 ---
 
 
-![vorti](/assets/nice_ending.png)
+<p align="center">
+  <img src="/assets/nice_ending.png" alt="cc" />
+</p>
 
 
 
