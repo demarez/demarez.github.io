@@ -1,8 +1,5 @@
 ---
 permalink: /recettes/
-author_profile: false
-title: "miam miam"
-toc: false
 ---
 
 
