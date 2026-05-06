@@ -19,13 +19,9 @@ header:
 
 <p>  [31] <b>de Marez, C.</b>, Auger, M., &amp; Dufour C. SWOT reveals mesoscale eddy hotspots and
 deserts in subpolar and polar oceans. <i>Nature Geoscience (submitted)</i>.</p>
-<p>  [30] <b>de Marez, C.</b>, Bendinger, A., &amp; Dilmahamod A.F. High-Latitude Eddy Statistics from SWOT assessed by in situ observations. <i>Ocean Science (submitted)</i>.</p>
-<p>  [29] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (submitted)</i>.</p>
-
-
-
+<p>  [30] Ruiz-Angulo, A., Portela-Rodriguez, E., <b>de Marez, C.</b>, Macrander, A., Ólafdóttir, S., Meunier, T., Jónsson, S., &amp;  Pérez-Hernández, D. Stratification and Mixed Layer Depth around Iceland, characterization and interannual variability. <i>Ocean Science (submitted)</i>.</p>
 ## Peer-reviewed
-
+<p>  [29] <b>de Marez, C.</b>, Bendinger, A., &amp; Dilmahamod A.F. (2026) High-Latitude Eddy Statistics from SWOT assessed by in situ observations. <i>Ocean Science, Highlight paper</i>.</p>
 <p>  [28] Gentil, M., <b>de Marez, C.</b>, Pallas-Sanz, E., Bosse, A., Tenreiro, M., &amp; Laxenaire, R. (2026) <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL120922">High-Resolution Observations Unveil (Sub)Mesoscale Heat Fluxes Shaping Upper-Ocean Heat Content</a>, <i>Geophysical Research Letters</i>.</p>
 <p>  [27] Ruiz-Angulo, A., Melgar, D., <b>de Marez, C.</b>, Deniau, A., Nencioli, F., A. &amp;  Hjörleifsdóttir, V. (2025) <a href="https://pubs.geoscienceworld.org/ssa/tsr/article/5/4/341/718867/SWOT-Satellite-Altimetry-Observations-and-Source">SWOT Satellite Altimetry Observations and Source Model for the Tsunami from the 2025 M8.8 Kamchatka Earthquake</a>, <i>The Seismic Record</i>.</p>
 <p>  [26] <b>de Marez, C.</b> (2025) <a href="https://os.copernicus.org/articles/21/1933/2025/"> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico</a>, <i>Ocean Science Letters, Highlight paper</i>.</p>
