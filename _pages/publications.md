@@ -23,7 +23,7 @@ deserts in subpolar and polar oceans. <i>Nature Geoscience (submitted)</i>.</p>
 
 ## Peer-reviewed
 
-<p>  [29] <b>de Marez, C.</b>, Bendinger, A., &amp; Dilmahamod A.F. (2026) High-Latitude Eddy Statistics from SWOT assessed by in situ observations. <i>Ocean Science, Highlight paper</i>.</p>
+<p>  [29] <b>de Marez, C.</b>, Bendinger, A., &amp; Dilmahamod A.F. (2026) High-Latitude Eddy Statistics from SWOT compared with in situ observations. <i>Ocean Science, Highlight paper</i>.</p>
 <p>  [28] Gentil, M., <b>de Marez, C.</b>, Pallas-Sanz, E., Bosse, A., Tenreiro, M., &amp; Laxenaire, R. (2026) <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025GL120922">High-Resolution Observations Unveil (Sub)Mesoscale Heat Fluxes Shaping Upper-Ocean Heat Content</a>, <i>Geophysical Research Letters</i>.</p>
 <p>  [27] Ruiz-Angulo, A., Melgar, D., <b>de Marez, C.</b>, Deniau, A., Nencioli, F., A. &amp;  Hjörleifsdóttir, V. (2025) <a href="https://pubs.geoscienceworld.org/ssa/tsr/article/5/4/341/718867/SWOT-Satellite-Altimetry-Observations-and-Source">SWOT Satellite Altimetry Observations and Source Model for the Tsunami from the 2025 M8.8 Kamchatka Earthquake</a>, <i>The Seismic Record</i>.</p>
 <p>  [26] <b>de Marez, C.</b> (2025) <a href="https://os.copernicus.org/articles/21/1933/2025/"> Synoptic observation of full mesoscale eddy lifetime and its secondary instabilities in the Gulf of Mexico</a>, <i>Ocean Science Letters, Highlight paper</i>.</p>
