@@ -17,6 +17,7 @@ header:
 
 ## Submitted
 
+<p>  [32] <b>de Marez, C.</b>, Bouras, A., &amp; Carton, X. Static stability and local stratification constrain where and when oceanic eddies can exist. <i>Ocean Science (submitted)</i>.</p>
 <p>  [31] <b>de Marez, C.</b>, Auger, M., &amp; Dufour C. SWOT reveals mesoscale eddy hotspots and
 deserts in subpolar and polar oceans. <i>Nature Geoscience (submitted)</i>.</p>
 
